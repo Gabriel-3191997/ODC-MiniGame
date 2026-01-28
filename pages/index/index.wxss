@@ -43,16 +43,13 @@
   display:flex;
   flex-wrap: wrap;
   justify-content:center;
-  background-image: url("./assests/images/bg-image.png");
-  height:100rpx;
-  background-size: cover;
-  
+ 
 }
 
 /* labels */
 .label{
 
-  margin-top:80rpx;
+  margin-top:350rpx;
   font-size:x-large;
   font-family: 'Permanent Marker', cursive;
   font-weight:bold;
@@ -69,7 +66,7 @@
 
 .wrapper#start-button{
 
-  padding-top:350rpx;
+  padding-top:50rpx;
 }
 
 .button{

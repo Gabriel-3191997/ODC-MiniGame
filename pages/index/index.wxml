@@ -1,21 +1,16 @@
 <view class="wrapper">
-<view class="custom-navbar">
-<text class="title">Lappa</text>
-</view>
-<!-- score board -->
-<view class="wrapper" id="canvas">
-<text class="label">
-game loading
-</text>
-<!-- <view class="wrapper" id="level">
+  <view class="custom-navbar">
+    <text class="title">Lappa</text>
+  </view>
+  <!-- score board -->
+  <view class="wrapper" id="canvas">
+    <text class="label">game loading</text>
+    <!-- <view class="wrapper" id="level">
 <text class="label" id="level-1">level 1</text>
-</view> -->
-<view class="wrapper" id="start-button">
-<button class="button">
-start
-</button>
+    </view>-->
+    <view class="wrapper" id="start-button">
+      <button class="button">start</button>
+    </view>
+  </view>
 </view>
-</view>
-</view>
-<view class="container">
-</view>
+<view class="container"></view>
