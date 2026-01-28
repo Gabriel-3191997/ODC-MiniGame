@@ -786,40 +786,14 @@ Test on:
 
 ## 🚀 Deployment
 
-### Day 2 - Final Hour (Hour 16)
+### Day 2 - Final Hour 
 
-1. **Final Code Review** (10 minutes)
+1. **Final Code Review** 
    - Check for console errors
    - Verify all features work
    - Test restart and share
 
-2. **Upload to WeChat** (20 minutes)
-   ```
-   WeChat DevTools → Upload
-   - Version: 1.0.0
-   - Description: "Initial release of Lappa Jump mini-game"
-   - Click Upload
-   ```
 
-3. **Submit for Review** (20 minutes)
-   - Go to mp.weixin.qq.com
-   - Navigate to "Development Management"
-   - Fill in required info:
-     * Category: Games / Casual
-     * Description: Cultural endless jumper game
-     * Screenshots: 3-5 gameplay images
-   - Submit for review
-
-4. **Documentation** (10 minutes)
-   - Update CHANGELOG.md
-   - Commit final code
-   - Tag release: `git tag v1.0.0`
-
-**Review Time**: 1-7 days (WeChat approval)
-
-Full deployment guide: See `DEPLOYMENT.md`
-
----
 
 ## 🎯 Success Criteria
 
