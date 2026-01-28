@@ -8,6 +8,9 @@
 game loading
 </text>
 </view>
+<!-- <view class="wrapper" id="level">
+<text class="label" id="level-1">level 1</text>
+</view> -->
 <view class="wrapper" id="start-button">
 <button class="button">
 start

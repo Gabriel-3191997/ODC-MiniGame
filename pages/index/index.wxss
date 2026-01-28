@@ -1,7 +1,7 @@
 .container{
   display: flex;
   align-items:center;
-  backgroundColor: white;
+  background-color: white;
 }
 
 /* NavBar */
@@ -20,18 +20,22 @@
   font-size:large;
   font-style:bolder;
   text-align:center;
+  text-transform:lowercase;
 }
 
 /* canvas loading page */
 
 .wrapper#canvas{
-
+  
   display:flex;
-  flex:flex-wrap;
+  flex-wrap: wrap;
   justify-content:center;
-  background-color:white;
-  height: auto;
+  height:100rpx;
+  background-size: cover;
+  
 }
+
+/* labels */
 
 .label{
 
@@ -42,15 +46,22 @@
   text-transform:uppercase;
 }
 
+.label#level-1{
+  font-size:medium;
+  font-weight:semibold;
+  text-transform:capitalize;
+}
+
 /* start button */
 
 .wrapper#start-button{
 
-  padding-top:250rpx;
+  padding-top:350rpx;
 }
 
 .button{
 
-  border-radius:50rpx;
+  border-radius:10rpx;
   background-color:orange;
+  border: 1rpx solid orange;
 }
