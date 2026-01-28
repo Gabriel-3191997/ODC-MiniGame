@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/game/game"
+  ],
+  "window": {
+    
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTextStyle": "white",
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
+

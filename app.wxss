@@ -1,0 +1,15 @@
+/** Global styles for Lappa Jump */
+page {
+  height: 100%;
+  background-color: #020617; /* dark sky */
+  color: #f9fafb;
+}
+
+.centered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+

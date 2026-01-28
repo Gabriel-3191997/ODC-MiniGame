@@ -1,4 +1,5 @@
 {
+	"appid": "touristappid",
 	"projectid": "mgtwlh1lt56x9rqp_ODC-MiniGame",
 	"setting": {
 		"urlCheck": true,
@@ -22,7 +23,7 @@
 		"hidedInDevtools": []
 	},
 	"SASappid": "mgtwlh1lt56x9rqp",
-	"projectname": "ODC-MiniGame1",
+	"projectname": "Lappa Jump",
 	"scripts": {},
 	"compileType": "miniprogram",
 	"condition": {
