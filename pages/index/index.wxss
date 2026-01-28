@@ -4,6 +4,19 @@
   background-color: white;
 }
 
+
+/* pages/index/index.wxss */
+/* {
+  width: 100vw;
+  min-height: 100vh;
+
+  background-image: url('/assets/images/bg.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
+
+
 /* NavBar */
 
 .custom-navbar{
@@ -30,13 +43,13 @@
   display:flex;
   flex-wrap: wrap;
   justify-content:center;
+  background-image: url("./assests/images/bg-image.png");
   height:100rpx;
   background-size: cover;
   
 }
 
 /* labels */
-
 .label{
 
   margin-top:80rpx;

@@ -7,7 +7,6 @@
 <text class="label">
 game loading
 </text>
-</view>
 <!-- <view class="wrapper" id="level">
 <text class="label" id="level-1">level 1</text>
 </view> -->
@@ -15,6 +14,7 @@ game loading
 <button class="button">
 start
 </button>
+</view>
 </view>
 </view>
 <view class="container">
