@@ -1,5 +1,4 @@
 {
-	"appid": "touristappid",
 	"projectid": "mgtwlh1lt56x9rqp_ODC-MiniGame",
 	"setting": {
 		"urlCheck": true,
@@ -14,8 +13,10 @@
 		"remoteDebugLogEnable": true,
 		"prefetch": false
 	},
-	"createTime": 1769595356984,
-	"accessTime": 1769595356984,
+	"SASLibVersion": "2.2.15",
+	"compileType": "miniprogram",
+	"createTime": 1769616444970,
+	"accessTime": 1769616444970,
 	"packOptions": {
 		"ignore": []
 	},
@@ -23,9 +24,8 @@
 		"hidedInDevtools": []
 	},
 	"SASappid": "mgtwlh1lt56x9rqp",
-	"projectname": "Lappa Jump",
+	"projectname": "ODC-MiniGame",
 	"scripts": {},
-	"compileType": "miniprogram",
 	"condition": {
 		"search": {
 			"current": -1,
