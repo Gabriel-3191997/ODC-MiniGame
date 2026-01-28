@@ -1,20 +1,56 @@
-.userinfo {
+.container{
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  align-items:center;
+  backgroundColor: white;
 }
 
-.userinfo-avatar {
-  width: 128rpx;
-  height: 128rpx;
-  margin: 20rpx;
-  border-radius: 50%;
+/* NavBar */
+
+.custom-navbar{
+
+  background-color: black;
+  height: 80rpx;
+  margin:0rpx;
 }
 
-.userinfo-nickname {
-  color: #aaa;
+.title{
+  color:white;
+  padding-left:20rpx;
+  font-family:"Arial",sans-serif;
+  font-size:large;
+  font-style:bolder;
+  text-align:center;
 }
 
-.usermotto {
-  margin-top: 200px;
+/* canvas loading page */
+
+.wrapper#canvas{
+
+  display:flex;
+  flex:flex-wrap;
+  justify-content:center;
+  background-color:white;
+  height: auto;
+}
+
+.label{
+
+  margin-top:80rpx;
+  font-size:x-large;
+  font-family: 'Permanent Marker', cursive;
+  font-weight:bold;
+  text-transform:uppercase;
+}
+
+/* start button */
+
+.wrapper#start-button{
+
+  padding-top:250rpx;
+}
+
+.button{
+
+  border-radius:50rpx;
+  background-color:orange;
 }
